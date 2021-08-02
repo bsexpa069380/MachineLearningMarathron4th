@@ -1,2 +1,4 @@
 
 *.csv
+Day7/data/house_test.csv.gz
+Day7/data/house_train.csv.gz
